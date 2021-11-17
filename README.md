@@ -7,7 +7,13 @@
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 </p>
 
-Hello All! I'm an iOS Engineer, based in Naples, Italy. I'm actually working for Quadronica for about 2 years, a product company that is focused on FantaSoccer projects. You can see some of our projects [here](https://apps.apple.com/it/developer/quadronica-s-r-l/id443926069)
+Hello All! I'm an iOS Engineer, based in Naples, Italy. 
+I'm actully working for [Neato Robotics](https://neatorobotics.com), a company based in San Jose, which aim to improve everyday living through robotics.
+
+In the past I worked also for:
+- [ShopFully](shopfully.com): A company that aims to improve local shopping, driving customers to stores [[AppStore](https://apps.apple.com/it/app/doveconviene/id446366839)]
+- [Fantacalcio](https://www.fantacalcio.it): The official Serie A FantaSoccer. [[AppStore](https://apps.apple.com/it/developer/quadronica-s-r-l/id443926069)]
+- [Open Reply](https://www.reply.com/open-reply/it/): A consulting company focused on mobile applications
 
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=idevid&show_icons=true&count_private=true&theme=dark" width="350"></a>
