@@ -8,9 +8,10 @@
 </p>
 
 Hello All! I'm an iOS Engineer, based in Naples, Italy. 
-I'm actully working for [Neato Robotics](https://neatorobotics.com), a company based in San Jose, which aim to improve everyday living through robotics.
 
 In the past I worked also for:
+- [Vorwerk](https://vorwerk.com): I was focused on MyKobold application, optimizing the user flows for the VR7 and VK7 devices [[AppStore](https://apps.apple.com/it/app/mykobold/id1497700591?l=en-GB)]
+- [Neato Robotics](https://neatorobotics.com), a company based in San Jose, which aim to improve everyday living through robotics.
 - [ShopFully](shopfully.com): A company that aims to improve local shopping, driving customers to stores [[AppStore](https://apps.apple.com/it/app/doveconviene/id446366839)]
 - [Fantacalcio](https://www.fantacalcio.it): The official Serie A FantaSoccer. [[AppStore](https://apps.apple.com/it/developer/quadronica-s-r-l/id443926069)]
 - [Open Reply](https://www.reply.com/open-reply/it/): A consulting company focused on mobile applications
