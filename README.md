@@ -7,15 +7,29 @@
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 </p>
 
-Hello All! I'm an iOS Engineer, based in Naples, Italy. 
+# 👋 Ciao! I'm Davide
 
-In the past I worked also for:
-- [Vorwerk](https://vorwerk.com): I was focused on MyKobold application, optimizing the user flows for the VR7 and VK7 devices [[AppStore](https://apps.apple.com/it/app/mykobold/id1497700591?l=en-GB)]
-- [Neato Robotics](https://neatorobotics.com), a company based in San Jose, which aim to improve everyday living through robotics.
-- [ShopFully](shopfully.com): A company that aims to improve local shopping, driving customers to stores [[AppStore](https://apps.apple.com/it/app/doveconviene/id446366839)]
-- [Fantacalcio](https://www.fantacalcio.it): The official Serie A FantaSoccer. [[AppStore](https://apps.apple.com/it/developer/quadronica-s-r-l/id443926069)]
-- [Open Reply](https://www.reply.com/open-reply/it/): A consulting company focused on mobile applications
+Based in the beautiful Naples, Italy 🇮🇹 | Passionate about crafting exceptional iOS experiences that make a difference in people's daily lives.
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=idevid&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+---
+
+## 🚀 Currently
+Working on **Goodnotes 6** - the AI-powered note-taking app that's reimagining how millions of students, professionals, and creatives capture and organize their thoughts across iOS, Android, Windows, and Web platforms.
+
+## 📱 Professional Journey
+My iOS engineering path has taken me through diverse industries and exciting challenges:
+
+**🤖 Robotics & Smart Home**
+- **[Vorwerk](https://vorwerk.com)** - Enhanced MyKobold app UX for VR7/VK7 robotic devices [[App Store](https://apps.apple.com/it/app/mykobold/id1497700591?l=en-GB)]
+- **[Neato Robotics](https://neatorobotics.com)** - Improved everyday living through robotics innovation (San Jose-based)
+
+**🛍️ Local Commerce**  
+- **[ShopFully](https://shopfully.com)** - Drove local shopping experiences, connecting customers to stores [[App Store](https://apps.apple.com/it/app/doveconviene/id446366839)]
+
+**⚽ Entertainment**  
+- **[Fantacalcio](https://www.fantacalcio.it)** - Built the official Serie A FantaSoccer experience [[App Store](https://apps.apple.com/it/developer/quadronica-s-r-l/id443926069)]
+
+**💼 Consulting**
+- **[Open Reply](https://www.reply.com/open-reply/it/)** - Mobile app consulting and development
+
+Let's connect and build something amazing together! 🚀
